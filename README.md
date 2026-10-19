@@ -60,4 +60,3 @@ This is an **AI-assisted portfolio prototype** developed with substantial Codex 
 Character mesh/animation and sound assets come from [Kenney's Starter Kit 3D Platformer](https://github.com/KenneyNL/Starter-Kit-3D-Platformer), CC0 assets. The upstream source license is preserved in `LICENSE-Kenney.md`. Controller, attraction, course and tests are new work; HUD helpers were adapted from the first AI-assisted prototype.
 
 Keyboard only, fixed-heading camera, one compact course. No rebinding, gamepad support, checkpoints, music, account or online services. Reduced motion disables speed-driven FOV changes. Foreground geometry is solid; distant scenery is not. No best-time persistence is included. Human playtesting is still needed.
-
