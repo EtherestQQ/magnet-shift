@@ -6,6 +6,11 @@ A small **Godot 4.7.2 / GDScript** prototype about magnetic attraction and relea
 
 ## Play
 
+**[Download Windows build (v1.2)](https://github.com/EtherestQQ/magnet-shift/releases/download/v1.2/MagnetShift-Windows-v1.2.zip)** · [Release notes and checksums](https://github.com/EtherestQQ/magnet-shift/releases/tag/v1.2)
+
+Extract the ZIP, then open `MagnetShift.exe`. Godot is not required to play.
+
+
 Open `MagnetShift.exe` in the Windows build. For source, import `project.godot` in Godot 4.7.2 and press F5. The course is constructed at runtime.
 
 - **A/D:** move left/right. **W/S:** adjust depth. **Space:** jump; there is no double jump.
