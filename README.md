@@ -60,7 +60,7 @@ godot --headless --path . --export-release "Windows Desktop" ../MagnetShift-Wind
 
 ## Attribution and limits
 
-This is an **AI-assisted portfolio prototype** developed with substantial Codex assistance. It should not be described as unaided work or professional Godot experience. It is separate from Aether Dash and from the employer's checkpoint test.
+A compact Godot movement prototype, separate from Aether Dash and the employer's checkpoint test.
 
 Character mesh/animation and sound assets come from [Kenney's Starter Kit 3D Platformer](https://github.com/KenneyNL/Starter-Kit-3D-Platformer), CC0 assets. The upstream source license is preserved in `LICENSE-Kenney.md`. Controller, attraction, course and tests are new work; HUD helpers were adapted from the first AI-assisted prototype.
 
